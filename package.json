@@ -11,6 +11,9 @@
     "e2e": "protractor"
   },
   "private": true,
+  "engines": {
+    "node": "7.9.0"
+  },
   "dependencies": {
     "@angular/common": "^2.3.1",
     "@angular/compiler": "^2.3.1",
