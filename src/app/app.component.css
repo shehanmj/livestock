@@ -1,0 +1,13 @@
+nav {
+  border-style: none;
+  color: black;
+  text-shadow: 2px 2px 2px black;
+  font-size: 2em;
+
+}
+
+.brand {
+  font-size: 3em;
+  padding-top:50px;
+  font-color: green;
+}
